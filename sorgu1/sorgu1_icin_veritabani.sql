@@ -677,5 +677,5 @@ insert into tbl_birim values('beslenme','deniz','yıldız')
 insert into tbl_birim values('aşı','hüseyin','yılmaz')
 insert into tbl_birim values('fabrika','mert','can')
 insert into tbl_birim values('fabrika','deniz','yıldız')
-drop table tbl_birim
+
 delete from tbl_birim where id=11
